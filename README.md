@@ -7,9 +7,9 @@ We are thrilled to introduce you to the repository for ATHENA - Agile Talent Hir
 
 🤝 **Team Members:**
 
--   Stamatis Alevras - Talent Acquisition Associate
--   Christos Ampatzidis - Power Platform Developer
--   Fuat Meydan - Senior Dynamics 365 Developer
+-   **Stamatis Alevras** - Talent Acquisition Associate
+-   **Christos Ampatzidis** - Power Platform Developer
+-   **Fuat Meydan** - Senior Dynamics 365 Developer
 
 🌟 **Overview:**
 
@@ -39,4 +39,4 @@ Explore ATHENA's world through our video presentation, a robust testament to our
 
 Embrace ATHENA and step into the future of AI-powered HR solutions where every process is streamlined, every contribution is valued, and every innovation makes a meaningful impact. Together, let's transform the HR landscape while persistently upholding the values of Quality, Innovation, Passion, and Integrity.
 
-In unity and innovation, the PeopleCert Team.
+*In unity and innovation, the PeopleCert Team.*
