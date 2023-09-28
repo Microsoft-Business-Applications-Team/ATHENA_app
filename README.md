@@ -1,7 +1,7 @@
 **ATHENA by PeopleCert Team**
 =============================
 
-🌟 **Welcome to the ATHENA Project!**
+### 🌟 **Welcome to the ATHENA Project!**
 
 We are thrilled to introduce you to the repository for ATHENA - Agile Talent Hiring Enhanced Navigational Application. Witness the evolution of seamless, AI-powered job description creation with ATHENA, emblematic of the passionate teamwork at PeopleCert.
 
